@@ -6,3 +6,4 @@ init_macs.txt
 pyvenv.cfg
 test.py
 utils/__pycache__
+.idea
